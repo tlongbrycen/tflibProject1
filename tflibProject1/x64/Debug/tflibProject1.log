@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(141,33): warning C4251: 'TFL::TFL_Human::pcdPeople': class 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>' needs to have dll-interface to be used by clients of struct 'TFL::TFL_Human'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(135): message : see declaration of 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(163,36): warning C4251: 'TFL::MeasurerCube::pcdBase': class 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>' needs to have dll-interface to be used by clients of class 'TFL::MeasurerCube'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(135): message : see declaration of 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(166,36): warning C4251: 'TFL::MeasurerCube::pcdCube': class 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>' needs to have dll-interface to be used by clients of class 'TFL::MeasurerCube'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(135): message : see declaration of 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(169,38): warning C4251: 'TFL::MeasurerCube::pcdVertex': class 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>' needs to have dll-interface to be used by clients of class 'TFL::MeasurerCube'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(135): message : see declaration of 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(195,36): warning C4251: 'TFL::DetectPeople::pcdBase': class 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>' needs to have dll-interface to be used by clients of class 'TFL::DetectPeople'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(135): message : see declaration of 'std::vector<TFL::TFL_PointXYZ,std::allocator<TFL::TFL_PointXYZ>>'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(198,37): warning C4251: 'TFL::DetectPeople::pplDetected': class 'std::vector<TFL::TFL_Human,std::allocator<TFL::TFL_Human>>' needs to have dll-interface to be used by clients of class 'TFL::DetectPeople'
+C:\Users\tlong\source\repos\TFLIB\include\tflib.h(150): message : see declaration of 'std::vector<TFL::TFL_Human,std::allocator<TFL::TFL_Human>>'
+  tflibProject1.vcxproj -> C:\Users\tlong\source\repos\tflibProject1\x64\Debug\tflibProject1.exe
